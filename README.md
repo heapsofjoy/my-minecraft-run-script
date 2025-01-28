@@ -46,12 +46,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
   - Alternatively, download a JDK from [Adoptium](https://adoptium.net/en-GB/temurin/releases/?os=windows&arch=x64&package=jdk), extract the contents into a `java` folder in the **root directory** where the script is located, and try again.
 - **No `.jar` Files Found**: Place your Minecraft server `.jar` file in the same folder as the script.
 
-## Contribution
-
-Feel free to modify or distribute this script as you like!
-
-
 Your directory should look like this if you are using a portable java. Will look the exact same without the java folder if you're not using portable java 
+
+## How your java directory should look
 
 Minecraft Server ROOT/
 ├── run.bat                  # Your Minecraft server run script
@@ -65,3 +62,7 @@ Minecraft Server ROOT/
 │   └── other JDK files...
 ├── server.jar               # Minecraft server .jar file
 └── other files...           # Any additional files (logs, plugins, etc.)
+
+## Contribution
+
+Feel free to modify or distribute this script as you like!
