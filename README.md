@@ -3,7 +3,7 @@
 This is a Windows batch script to help you easily configure and start a Minecraft server. It includes options for custom memory allocation, port selection, and advanced server optimizations with Aikar's flags. The script also supports automatic restarts in case of crashes.
 
 ## Features
-
+- **Automatic Jar File Detection**: Choose which .jar you want to run or automatically chooses for you
 - **Memory Allocation**: Choose how much memory (RAM) to allocate to your server.
 - **Port Configuration**: Customize the port your server listens on.
 - **Aikar's Flags**: Enable optimized Java flags for improved server performance.
