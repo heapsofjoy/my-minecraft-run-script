@@ -50,6 +50,7 @@ Your directory should look like this if you are using a portable java. Will look
 
 ## How your java directory should look
 
+
 Minecraft Server ROOT/
 ├── run.bat                  # Your Minecraft server run script
 ├── java/                    # Custom Java version (optional)
